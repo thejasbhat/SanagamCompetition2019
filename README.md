@@ -1,2 +1,3 @@
 # sangam2019
-Hackathon
+Hackathon: A draft naive attempt
+Disclaimer: Not a end to end datascience project.
